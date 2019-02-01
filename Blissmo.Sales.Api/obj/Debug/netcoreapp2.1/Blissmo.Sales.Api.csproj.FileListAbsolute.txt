@@ -1,0 +1,15 @@
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\obj\Debug\netcoreapp2.1\Blissmo.Sales.Api.csproj.CoreCompileInputs.cache
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\obj\Debug\netcoreapp2.1\Blissmo.Sales.Api.AssemblyInfoInputs.cache
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\obj\Debug\netcoreapp2.1\Blissmo.Sales.Api.AssemblyInfo.cs
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\bin\Debug\netcoreapp2.1\Blissmo.Sales.Api.deps.json
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\bin\Debug\netcoreapp2.1\Blissmo.Sales.Api.runtimeconfig.json
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\bin\Debug\netcoreapp2.1\Blissmo.Sales.Api.runtimeconfig.dev.json
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\bin\Debug\netcoreapp2.1\Blissmo.Sales.Api.dll
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\bin\Debug\netcoreapp2.1\Blissmo.Sales.Api.pdb
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\obj\Debug\netcoreapp2.1\Blissmo.Sales.Api.csprojAssemblyReference.cache
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\obj\Debug\netcoreapp2.1\Blissmo.Sales.Api.RazorAssemblyInfo.cache
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\obj\Debug\netcoreapp2.1\Blissmo.Sales.Api.RazorAssemblyInfo.cs
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\obj\Debug\netcoreapp2.1\Blissmo.Sales.Api.RazorTargetAssemblyInfo.cache
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\obj\Debug\netcoreapp2.1\Blissmo.Sales.Api.dll
+C:\Users\markf\source\repos\Blissmo\Blissmo.Sales.Api\obj\Debug\netcoreapp2.1\Blissmo.Sales.Api.pdb
